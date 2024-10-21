@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itewartom.github.io/itewartom.txt.gz
+Sitemap: https://itewartom.github.io/app/itewartom.txt.gz
+Sitemap: https://itewartom.github.io/assets/itewartom.txt.gz
+Sitemap: https://itewartom.github.io/css/itewartom.txt.gz
+Sitemap: https://itewartom.github.io/includes/itewartom.txt.gz
+Sitemap: https://itewartom.github.io/item/itewartom.txt.gz
+Sitemap: https://itewartom.github.io/src/itewartom.txt.gz
